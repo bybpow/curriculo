@@ -25,7 +25,7 @@ sidebar:
           level: Nativo
 
         - idiom: Inglés
-          level: Professional
+          level: Profesional
 
 career-profile:
     title: Acerca de mí
@@ -68,7 +68,7 @@ experiences:
         company: Atos
         details: |
           Becario en prácticas a cargo de la creación y comprobación de casos de prueba manuales y posterior automatización.
-          
+
           Tareas encomendadas:
             - Control de calidad para el sitio oficial de los Juegos Olímpicos Tokio 2020.
 skills:
