@@ -56,7 +56,7 @@ experiences:
         details: |
          QA Tester y Desarrollador Web Junior a cargo de automatización y mantenimiento para RTVE. Realizadas tareas de tipo evolutivo y correctivo, DevOps y realización de despliegues. Gestión y documentación de operativa legacy.
           
-          Laborares ocupadas:
+          Labores ocupadas:
             - Tareas evolutivas y correctivas de integración continua.
             - Tarea Catalogada.
             - DevOps y realización de despliegues manuales y automáticos.
@@ -74,4 +74,6 @@ experiences:
 skills:
     title: Habilidades
     summary: |
-      Ffmpeg · Multimedia Codecs · Video Encoding · Audio Encoding · Video Editing · Nagios · Red Hat Satellite · Linux · Ubuntu · CentOS · GitFlow · Git · Docker Products · Node.js · Argo CD · Confluence · Jira · DevOps · Grafana · Kubernetes · PHP · Java · JavaScript · HTML · XPath · Cucumber · Selenium
+      FFmpeg · Codecs Multimedia · Nagios · Red Hat Satellite · Linux · Ubuntu · CentOS · GitFlow · Git · Docker · NodeJS 
+      · Argo CD · Confluence · Jira · DevOps · Grafana · Kubernetes · PHP · Java · JavaScript · HTML · XPath · Cucumber · 
+      Selenium · Agile · SCRUM · Jekyll · Framework Spring · CSS
