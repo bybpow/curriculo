@@ -56,7 +56,7 @@ experiences:
         details: |
          Gestión e implementación de controles y mejores de calidad para Indra, destinado al proyecto de Santander Consumer Finance para productos en Bégica, Alemania, Holanda y Portugal. 
     
-      - role: Tester QA · Web Developer
+    - role: Tester QA · Web Developer
         time: Aug. 2019 — Nov. 2022
         company: Hiberus | RTVE
         details: |
@@ -69,7 +69,7 @@ experiences:
             - Gestión y documentación de aplicaciones y bases de datos legacy.
             - Monitoreo y administración de servidores y bases de datos.
             - Ingesta y codificación multimedia para streaming.
-      - role: Tester QA
+    - role: Tester QA
         time: Mar. 2019 — Jun. 2019
         company: Atos
         details: |
