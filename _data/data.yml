@@ -50,33 +50,32 @@ education:
 experiences:
     title: Experiencia
     info:
-    - role: SDET (Software Developer with Expertise in Testing) · Tester QA
-        time: Ene. 2023 — Actual
-        company: Krell Consulting
-        details: |
-         Gestión e implementación de controles y mejores de calidad para Indra, destinado al proyecto de Santander Consumer Finance para productos en Bégica, Alemania, Holanda y Portugal. 
-    
-    - role: Tester QA · Web Developer
-        time: Aug. 2019 — Nov. 2022
-        company: Hiberus | RTVE
-        details: |
-         QA Tester y Desarrollador Web Junior a cargo de automatización y mantenimiento para RTVE. Realizadas tareas de tipo evolutivo y correctivo, DevOps y realización de despliegues. Gestión y documentación de operativa legacy.
-          
-          Labores ocupadas:
-            - Tareas evolutivas y correctivas de integración continua.
-            - Tarea Catalogada.
-            - DevOps y realización de despliegues manuales y automáticos.
-            - Gestión y documentación de aplicaciones y bases de datos legacy.
-            - Monitoreo y administración de servidores y bases de datos.
-            - Ingesta y codificación multimedia para streaming.
-    - role: Tester QA
-        time: Mar. 2019 — Jun. 2019
-        company: Atos
-        details: |
-          Becario en prácticas a cargo de la creación y comprobación de casos de prueba manuales y posterior automatización.
+      - role: SDET · Tester QA
+          time: Ene. 2023 — Actual
+          company: Krell Consulting
+          details: |
+          Gestión e implementación de controles y mejores de calidad para Indra, destinado al proyecto de Santander Consumer Finance para productos en Bégica, Alemania, Holanda y Portugal.
+      - role: Tester QA · Web Developer
+          time: Aug. 2019 — Nov. 2022
+          company: Hiberus | RTVE
+          details: |
+          QA Tester y Desarrollador Web Junior a cargo de automatización y mantenimiento para RTVE. Realizadas tareas de tipo evolutivo y correctivo, DevOps y realización de despliegues. Gestión y documentación de operativa legacy.
+            
+            Labores ocupadas:
+              - Tareas evolutivas y correctivas de integración continua.
+              - Tarea Catalogada.
+              - DevOps y realización de despliegues manuales y automáticos.
+              - Gestión y documentación de aplicaciones y bases de datos legacy.
+              - Monitoreo y administración de servidores y bases de datos.
+              - Ingesta y codificación multimedia para streaming.
+      - role: Tester QA
+          time: Mar. 2019 — Jun. 2019
+          company: Atos
+          details: |
+            Becario en prácticas a cargo de la creación y comprobación de casos de prueba manuales y posterior automatización.
 
-          Tareas encomendadas:
-            - Control de calidad para el sitio oficial de los Juegos Olímpicos Tokio 2020.
+            Tareas encomendadas:
+              - Control de calidad para el sitio oficial de los Juegos Olímpicos Tokio 2020.
 skills:
     title: Habilidades
     summary: |
