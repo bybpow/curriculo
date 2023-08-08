@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: rhervas96@mailbox.org
+    email: ruben@rhervas.me
     phone: (+34) 610159247
     timezone: Ciudad Real–Madrid
     linkedin: bybpow
@@ -50,6 +50,12 @@ education:
 experiences:
     title: Experiencia
     info:
+    - role: SDET (Software Developer with Expertise in Testing) · Tester QA
+        time: Ene. 2023 — Actual
+        company: Krell Consulting
+        details: |
+         Gestión e implementación de controles y mejores de calidad para Indra, destinado al proyecto de Santander Consumer Finance para productos en Bégica, Alemania, Holanda y Portugal. 
+    
       - role: Tester QA · Web Developer
         time: Aug. 2019 — Nov. 2022
         company: Hiberus | RTVE
@@ -76,4 +82,4 @@ skills:
     summary: |
       FFmpeg · Codecs Multimedia · Nagios · Red Hat Satellite · Linux · Ubuntu · CentOS · GitFlow · Git · Docker · NodeJS 
       · Argo CD · Confluence · Jira · DevOps · Grafana · Kubernetes · PHP · Java · JavaScript · HTML · XPath · Cucumber · 
-      Selenium · Agile · SCRUM · Jekyll · Framework Spring · CSS
+      Selenium · Agile · SCRUM · Jekyll · Framework Spring · CSS · Gherkin
