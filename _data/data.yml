@@ -50,11 +50,6 @@ education:
 experiences:
     title: Experiencia
     info:
-      - role: SDET · Tester QA
-          time: Ene. 2023 — Actual
-          company: Krell Consulting
-          details: |
-          Gestión e implementación de controles y mejores de calidad para Indra, destinado al proyecto de Santander Consumer Finance para productos en Bégica, Alemania, Holanda y Portugal.
       - role: Tester QA · Web Developer
           time: Aug. 2019 — Nov. 2022
           company: Hiberus | RTVE
