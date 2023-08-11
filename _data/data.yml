@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Rubén Hervás
-    tagline: Desarrollador Web | Tester QA
+    tagline: WD | TQA | SD | SDET
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: ruben@rhervas.me
-    phone: (+34) 610159247
+    phone: 
     timezone: Ciudad Real–Madrid
     linkedin: bybpow
     github: bybpow
@@ -50,30 +50,35 @@ education:
 experiences:
     title: Experiencia
     info:
-      - role: Tester QA · Web Developer
-          time: Aug. 2019 — Nov. 2022
-          company: Hiberus | RTVE
-          details: |
-          QA Tester y Desarrollador Web Junior a cargo de automatización y mantenimiento para RTVE. Realizadas tareas de tipo evolutivo y correctivo, DevOps y realización de despliegues. Gestión y documentación de operativa legacy.
-            
-            Labores ocupadas:
-              - Tareas evolutivas y correctivas de integración continua.
-              - Tarea Catalogada.
-              - DevOps y realización de despliegues manuales y automáticos.
-              - Gestión y documentación de aplicaciones y bases de datos legacy.
-              - Monitoreo y administración de servidores y bases de datos.
-              - Ingesta y codificación multimedia para streaming.
-      - role: Tester QA
-          time: Mar. 2019 — Jun. 2019
-          company: Atos
-          details: |
-            Becario en prácticas a cargo de la creación y comprobación de casos de prueba manuales y posterior automatización.
+      - role: SDET (Software Developer with Expertice in Testing) | Tester QA
+        time: Ene. 2023 — Ago. 2023
+        company: Krell Consulting
+        details: |
+          Asignado a Indra y derivado en proyecto para Santander. Encargado de la estrategia de calidad y supervisión de control de Santander Consumer Finance para productos en Bélgica y Alemania.
 
-            Tareas encomendadas:
-              - Control de calidad para el sitio oficial de los Juegos Olímpicos Tokio 2020.
+    
+      - role: Tester QA · Web Developer
+        time: Aug. 2019 — Nov. 2022
+        company: Hiberus | RTVE
+        details: |
+         QA Tester y Desarrollador Web Junior a cargo de automatización y mantenimiento para RTVE. Realizadas tareas de tipo evolutivo y correctivo, DevOps y realización de despliegues. Gestión y documentación de operativa legacy.
+          
+          Laborares ocupadas:
+            - Tareas evolutivas y correctivas de integración continua.
+            - Tarea Catalogada.
+            - DevOps y realización de despliegues manuales y automáticos.
+            - Gestión y documentación de aplicaciones y bases de datos legacy.
+            - Monitoreo y administración de servidores y bases de datos.
+            - Ingesta y codificación multimedia para streaming.
+      - role: Tester QA
+        time: Mar. 2019 — Jun. 2019
+        company: Atos
+        details: |
+          Becario en prácticas a cargo de la creación y comprobación de casos de prueba manuales y posterior automatización.
+          
+          Tareas encomendadas:
+            - Control de calidad para el sitio oficial de los Juegos Olímpicos Tokio 2020.
 skills:
     title: Habilidades
     summary: |
-      FFmpeg · Codecs Multimedia · Nagios · Red Hat Satellite · Linux · Ubuntu · CentOS · GitFlow · Git · Docker · NodeJS 
-      · Argo CD · Confluence · Jira · DevOps · Grafana · Kubernetes · PHP · Java · JavaScript · HTML · XPath · Cucumber · 
-      Selenium · Agile · SCRUM · Jekyll · Framework Spring · CSS · Gherkin
+      Ffmpeg · Multimedia Codecs · Video Encoding · Audio Encoding · Video Editing · Nagios · Red Hat Satellite · Linux · Ubuntu · CentOS · GitFlow · Git · Docker Products · Node.js · Argo CD · Confluence · Jira · DevOps · Grafana · Kubernetes · PHP · Java · JavaScript · HTML · XPath · Cucumber · Selenium · Gherkin
