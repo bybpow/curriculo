@@ -8,11 +8,11 @@ sidebar:
 
     # Profile information
     name: Rubén Hervás
-    tagline: WD | TQA | SD | SDET
+    tagline: Desarrollador Web · Tester QA
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: ruben@rhervas.me
+    email: rhervas.pro@mailbox.org
     phone: +34 (684 488 515)
     timezone: Ciudad Real–Madrid
     linkedin: bybpow
@@ -28,16 +28,9 @@ sidebar:
           level: Profesional
 
 career-profile:
-    title: Acerca de mí
+    title: Presentación
     summary: |
-      Me llamo Rubén y soy un chico al que siempre le ha llamado la atención la informática. ¡Encantado!
-      Este es mi perfil profesional virtual. Echale un vistazo a mi curriculo.
-      Si quieres saber algo concreto más sobre mí:
-        - Me gusta todo lo relacionado con el streaming y lo multimedia.
-        - Me encanta la animación 2D, el dibujo digital y el modelado 3D.
-        - Me interesa el diseño, en especial la tipografía y la disposición; tanto web como digital.
-        - Siento curiosidad por la IA relacionada con la generación de gráficos.
-        - Tengo, entre otros, el defecto de preferir escuchar audiolibros a leer ebooks.
+      Llevo utilizando ordenadores e Internet desde que tengo uso de razón. Durante ese tiempo no han sido pocos los bugs y glitches con los que me he encontrado tanto en páginas webs como programas y juegos. Especializarme en QA dentro del desarrollo de software ha sido mi elección para aportar mi granito de arena para acabar con ellos.
       
 education:
     title: Formación
@@ -51,17 +44,19 @@ experiences:
     title: Experiencia
     info:
       - role: SDET (Software Developer with Expertice in Testing) | Tester QA
-        time: Ene. 2023 — Ago. 2023
-        company: Krell Consulting
+        time: Ene. 2023 — Nov. 2023
+        company: Krell · Indra · Santander
         details: |
-          Asignado a Indra y derivado en proyecto para Santander. Encargado de la estrategia de calidad y supervisión de control de Santander Consumer Finance para productos en Bélgica y Alemania.
+          SDET (Software Developer with Expertice in Testing) y Tester QA (Midsenior) <br>
+          Asignado a Indra y derivado a proyecto para Santander. Encargado de la estrategia de calidad y supervisión de control de Santander Consumer Finance para productos en Bélgica y Alemania.
 
     
-      - role: Tester QA · Web Developer
+      - role: Tester QA | Web Developer
         time: Aug. 2019 — Nov. 2022
-        company: Hiberus | RTVE
+        company: Hiberus · RTVE
         details: |
-         QA Tester y Desarrollador Web Junior a cargo de automatización y mantenimiento para RTVE. Realizadas tareas de tipo evolutivo y correctivo, DevOps y realización de despliegues. Gestión y documentación de operativa legacy.
+         Tester QA y Desarrollador Web (Junior) <br> 
+         Automatización y mantenimiento para RTVE. Realizadas tareas de tipo evolutivo y correctivo, DevOps y realización de despliegues. Gestión y documentación de operativa legacy.
           
           Laborares ocupadas:
             - Tareas evolutivas y correctivas de integración continua.
@@ -70,15 +65,21 @@ experiences:
             - Gestión y documentación de aplicaciones y bases de datos legacy.
             - Monitoreo y administración de servidores y bases de datos.
             - Ingesta y codificación multimedia para streaming.
+      
       - role: Tester QA
         time: Mar. 2019 — Jun. 2019
         company: Atos
         details: |
-          Becario en prácticas a cargo de la creación y comprobación de casos de prueba manuales y posterior automatización.
+          Tester QA (Becario) <br>
+          Creación y comprobación de casos de prueba manuales y posterior automatización.
           
           Tareas encomendadas:
             - Control de calidad para el sitio oficial de los Juegos Olímpicos Tokio 2020.
 skills:
     title: Habilidades
     summary: |
-      Ffmpeg · Multimedia Codecs · Video Encoding · Audio Encoding · Video Editing · Nagios · Red Hat Satellite · Linux · Ubuntu · CentOS · GitFlow · Git · Docker Products · Node.js · Argo CD · Confluence · Jira · DevOps · Grafana · Kubernetes · PHP · Java · JavaScript · HTML · XPath · Cucumber · Selenium · Gherkin
+      Java · Python · PHP · JavaScript · HTML · CSS <br>
+      <br>
+      Jira · Confluence · Nagios · Grafana · Argo CD · Red Hat Satellite <br> 
+      <br>
+      Git · Linux · Ubuntu · GitFlow · Docker · Kubernetes · Selenium · Cucumber · Gherkin · CentOS · Node · XPath · Agile · Scrum <br>
